@@ -2,6 +2,7 @@
 
 ## Web server
 * Handle HTTP GET requests
+* Handle HTTP POST requests
 * Handle Multi-processed request
 
 ### Compiling instructions
